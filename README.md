@@ -19,8 +19,8 @@
     g) Soluções sugeridas.
     
 ## 1. Entendendo o modelo de negócio
-    A Incorporadora King County é uma empresa norte-americana que atua no segmento de comrpa e venda de imóveis no estado de Washington,
-    ao noroeste do Pacífico. A empresa é responsável por uma grande fatia do mercado local, devido a sua
+    A Incorporadora King County é uma empresa norte-americana que atua no segmento de comrpa e venda de imóveis no estado
+    de Washington, ao noroeste do Pacífico. A empresa é responsável por uma grande fatia do mercado local, devido a sua
     tradição e qualidade nos serviços prestados. 
     
     No entanto, nos últimos anos, a empresa vem perdendo espaço no mercado, devido ao surgimento de novas startups
@@ -36,10 +36,11 @@
     retorno esperado, sendo que o seu ROI estava abaixo do previsto.
     
    ## 2. As questões-chave a serem resolvidas 
-    Visando a resolução de todos os problemas abordados no tópico anterior, a organização contratou um Cientista de dados para analisar as 
-    questões levantadas pela administração, assim como descobrir insights que levem a incorporadora a retomar a fatia de mercado
-    perdida, e, consequentemente, a ampliar seu lucro com o negócio. Para que isso se concretize, o profissional elaborou 3 perguntas
-    (baseadas nos pedidos realizados pela administração) que servirão de escopo para todo o seu trabalho. São elas:
+    Visando a resolução de todos os problemas abordados no tópico anterior, a organização contratou um Cientista de dados
+    para analisar as questões levantadas pela administração, assim como descobrir insights que levem a incorporadora a
+    retomar a fatia de mercado perdida, e, consequentemente, a ampliar seu lucro com o negócio. Para que isso se
+    concretize, o profissional elaborou 3 perguntas (baseadas nos pedidos realizados pela administração) que servirão de
+    escopo para todo o seu trabalho. São elas:
     
         a) Quais casas a incorporadora deveria comprar e por qual valor de aquisição?
         b) Dentro do portfólio de imóveis adquiridos, qual o melhor momento para negociá-las e por qual valor de venda?
